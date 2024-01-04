@@ -1,7 +1,8 @@
 repo_name: olivelegras/mvcExpress-away3d-playground
 report_id: e80040db220ca0718f3252fd334124d1
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T10:59:07+00:00'
+timestamp: '2024-01-04T14:52:39+00:00'
 requested_by: MindScriptAct
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png
+  detection_source_url: https://github.com/olivelegras/mvcExpress-away3d-playground
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -24,4 +26,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/olivelegras/mvcExpress-away3d-playground
   detection_source: Repo Metadata
